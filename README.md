@@ -24,8 +24,6 @@ cd    ~/projectDirectory/projectName
 git clone https://github.com/todd-dsm/centosSimple7.git
 vagrant up
 vagrant ssh
-  -OR-
-ssh -p portNumber root@127.0.0.1
 ```
 where `portNumber` is the port that Vagrant assigned during start.
 
