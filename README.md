@@ -54,11 +54,11 @@ These services are enabled but not hardened:
 * None - *yet*.
 
 ##Totally Unsupported
-Non-constructive Feedback, including but not limited to:
+Non-constructive Feedback, including but not limited to BWRC:
  * Bitching
  * Whining, or
  * Recreational Comlaining
 
-All else is not only encourage but rewarded - with a solid platform with which to test.
+All else is not only encourage but rewarded.
 
 Cheers
