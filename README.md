@@ -1,6 +1,3 @@
-centosSimple7
-=============
-
 # centosSimple7
 ####Codename: surly-snatch
 
