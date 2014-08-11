@@ -13,7 +13,7 @@ It's available now at [Vagrant Cloud](https://vagrantcloud.com/todd_dsm/centosSi
 * CentOS 7.0-1406 x86_64 (Minimal ISO)
 * TESTING ONLY (for now)
 * Auto-Build: Packer (coming shortly)
-* Auto-Conf:  BASH   (coming shrotly)
+* Auto-Conf:  BASH   (coming shortly)
 * Auto-Conf:  Python (coming much later; stay tuned)
 * I will make every attempt to *always* keep this the latest version of CentOS 7.
 
