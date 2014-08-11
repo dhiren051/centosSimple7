@@ -7,7 +7,7 @@ Very shortly I'll include some `BASH` shell automation (`bootstrap.sh`) to work 
 
 You are free to use it but please keep in mind: This is for my personal experimentation; it's really just for *me*.
 
-It will all be available in my [Github](https://github.com/todd-dsm/centosSimple7) repo.
+It's available now at [Vagrant Cloud](https://vagrantcloud.com/todd_dsm/centosSimple7) repo.
 
 ##Highlights
 * CentOS 7.0-1406 x86_64 (Minimal ISO)
@@ -54,7 +54,7 @@ These services are enabled but not hardened:
 Non-constructive Feedback, including but not limited to BWRC:
  * Bitching
  * Whining, or
- * Recreational Comlaining
+ * Recreational Complaining
 
 All else is not only encourage but rewarded.
 
