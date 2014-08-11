@@ -19,14 +19,13 @@ It's available now at [Vagrant Cloud](https://vagrantcloud.com/todd_dsm/centosSi
 
 ##To Use
 ```
-mkdir ~/projectDirectory/projectName
-cd    ~/projectDirectory/projectName
+cd    ~/projectDirectory/              (where you keep all of your other projects)
 git clone https://github.com/todd-dsm/centosSimple7.git
+mv centosSimple7/ newProjectName       (whatever you want to call it)
+cd newProjectName/
 vagrant up
 vagrant ssh
 ```
-where `portNumber` is the port that Vagrant assigned during start.
-
 After logging in as the user `vagrant` you can become `root` by entering: `sudo su -`
 
 ####That's it! 
